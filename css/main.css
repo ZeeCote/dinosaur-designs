@@ -1,11 +1,15 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia, Serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
 
 img {
   width: 100%;
+}
+
+h1, nav {
+  font-family: 'Patua One', cursive;
 }
 
 h1, h2 {
