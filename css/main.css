@@ -8,11 +8,14 @@ img {
   width: 100%;
 }
 
-h1 {
+h1,
+h2,
+nav {
   font-family: 'Patua One', sans-serif;
 }
 
-h1, h2 {
+h1,
+h2 {
   color: #5d8432;
   text-transform: uppercase;
 }
@@ -26,7 +29,6 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
-  font-family: 'Patua One', sans-serif;
 }
 
 nav ol {
